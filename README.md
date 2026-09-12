@@ -1,2 +1,2 @@
 # lora
-repository for a school technology project
+A repository regarding a device (or group of devices) that enables long-range data transmission
